@@ -1,13 +1,13 @@
 <?php 
 /*
- * Plugin Name:       LS & CF Cache Cleaner
- * Plugin URI:        https://9amdev.com
- * Description:       This plugin automatically clean Litespeed and Cloudflare cache each week. No manual settings required. 
+ * Plugin Name:       LS & CF Scheduled Cache Cleaner
+ * Plugin URI:        https://webkonsulenterne.dk
+ * Description:       This plugin automatically clean Litespeed and Cloudflare cache each saturday night. No manual settings required. 
  * Version:           1.0.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
- * Author:            Md Imran Khan
- * Author URI:        https://9amdev.com
+ * Author:            Webkonsulenterne, Imran Khan
+ * Author URI:        https://webkonsulenterne.dk
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       wk-lscf-cleaner
